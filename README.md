@@ -8,7 +8,7 @@ free video course [Bayesian A/B campaign testing (and design)](https://www.youtu
 Also available as a [public running app](https://www.youtube.com/playlist?list=PLAKBwakacHbRRw278HMXpCsOOIIcL).
 
 
-#  Win-Vector LLC's free  video lecture on Bayesian A/B testing.
+#  [Win-Vector LLC's free  video lecture on Bayesian A/B testing](https://www.youtube.com/playlist?list=PLAKBwakacHbRRw278HMXpCsOOIIcLYGX5)
 
 Source code: https://github.com/WinVector/CampaignPlanner/
 App hosted online at: https://win-vector.shinyapps.io/CampaignPlanner/
