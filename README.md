@@ -32,4 +32,3 @@ This sort of fills out our survey of ways to think about A/B testing:
 
 See here for another survey of our on the topic: http://www.win-vector.com/blog/2015/06/designing-ab-tests/
 
-We have a lot more material both in our book and "Practical Data Science with R" our paid video course "Introduction to Data Science" (see here for details: http://www.win-vector.com/blog/2015/03/the-win-vector-r-data-science-value-pack/ ).
