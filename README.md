@@ -10,7 +10,7 @@ Also available as a [public running app](https://www.youtube.com/playlist?list=P
 
 #  [Win-Vector LLC's free  video lecture on Bayesian A/B testing](https://www.youtube.com/playlist?list=PLAKBwakacHbRRw278HMXpCsOOIIcLYGX5)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UnrnvLVgUQI" frameborder="0" allowfullscreen></iframe>
+[![](img.jpeg)](https://www.youtube.com/playlist?list=PLAKBwakacHbRRw278HMXpCsOOIIcLYGX5)
 
 Source code: https://github.com/WinVector/CampaignPlanner/
 App hosted online at: https://win-vector.shinyapps.io/CampaignPlanner/
